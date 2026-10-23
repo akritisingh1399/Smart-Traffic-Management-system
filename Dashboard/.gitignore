@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+
+*.log
+__pycache__/
+*.pyc
+*.mp4
+*.zip
+*.h5
+*.pt
+*.pth
+*.weights
+*.ipynb_checkpoints

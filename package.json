@@ -1,0 +1,15 @@
+{
+  "name": "smart-traffic-management-system",
+  "version": "1.0.0",
+  "description": "Smart Traffic Management System",
+  "scripts": {
+    "server": "cd server && npm start",
+    "dashboard": "cd Dashboard && npm start",
+    "client": "cd client && npm start",
+    "seed": "cd server && node seed.js",
+    "start": "start-all.bat"
+  },
+  "dependencies": {
+    "mongoose": "^9.0.0"
+  }
+}
